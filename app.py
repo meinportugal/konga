@@ -64,6 +64,8 @@ def _db():
     if not os.path.exists(DB_PATH):
         print(st.secrets["R2_ENDPOINT"])
         print(st.secrets["R2_BUCKET"])
+        print(st.secrets["R2_ACCESS_KEY"])
+        print(st.secrets["R2_SECRET_KEY"])
         download_database()
 
     return duckdb.connect(DB_PATH, read_only=True)
