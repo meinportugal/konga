@@ -631,8 +631,8 @@ st.markdown(
 <div class="ks-hdr">
   <div class="ks-logo">🛍️ Konga Selling</div>
   <div class="ks-links">
-    <a href="https://www.konga.com" target="_blank">Service Website</a>
-    <a href="https://t.me/kongasupport" target="_blank">Telegram Support</a>
+    <a href="https://www.konga.com" target="_blank">Website</a>
+    <a href="https://t.me/meinportugal" target="_blank">Telegram Support</a>
   </div>
 </div>
 """,
